@@ -5,12 +5,12 @@ The Book My Show system is a command-line ticket booking application designed to
 
 ## Features
 ### Main Menu
-- Make a Booking: Allows users to book tickets by providing their name, email, show name, phone number, credit card number, and password.
-- Delete a Booking: Provides options to delete bookings by various criteria such as name, email, show booked, phone number, credit card number, and password.
-- Edit Booking: Enables users to update their booking details including name, email, show booked, phone number, credit card number, and password.
-- Display Bookings: Offers multiple display options to view all records or filter by specific details such as name, email, show booked, phone number, credit card number, and password.
-- Search Record: Allows users to search for specific records in the database by name, email, show booked, phone number, credit card number, and password.
-- Exit: Exits the application.
+- **Make a Booking:** Allows users to book tickets by providing their name, email, show name, phone number, credit card number, and password.
+- **Delete a Booking:** Provides options to delete bookings by various criteria such as name, email, show booked, phone number, credit card number, and password.
+- **Edit Booking:** Enables users to update their booking details including name, email, show booked, phone number, credit card number, and password.
+- **Display Bookings:** Offers multiple display options to view all records or filter by specific details such as name, email, show booked, phone number, credit card number, and password.
+- **Search Record:** Allows users to search for specific records in the database by name, email, show booked, phone number, credit card number, and password.
+- **Exit:** Exits the application.
 
 ## Current Shows
 - Mirzapur Season II
@@ -47,10 +47,10 @@ The application uses a MySQL database with a table named BOOKINGS with the follo
 - Password: User's password
 
 ## Installation and Setup
-- Install MySQL: Ensure MySQL is installed and running on your machine.
-- Database Setup: Create a database named tick and a table BOOKINGS using the provided schema.
-- Python Dependencies: Install the required Python packages using pip install MySQLdb prettytable.
-- Run the Application: Execute the script using python ticket_booking_system.py.
+- **Install MySQL:** Ensure MySQL is installed and running on your machine.
+- **Database Setup:** Create a database named tick and a table BOOKINGS using the provided schema.
+- **Python Dependencies:** Install the required Python packages using pip install MySQLdb prettytable.
+- **Run the Application:** Execute the script using python ticket_booking_system.py.
 
 ## Conclusion
 The Book My Show ticket booking system is a comprehensive solution for managing show bookings. With a user-friendly command-line interface and robust database integration, it simplifies the process of booking, editing, deleting, displaying, and searching for tickets.
