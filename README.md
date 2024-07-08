@@ -5,12 +5,12 @@ The Book My Show system is a command-line ticket booking application designed to
 
 ## Features
 ### Main Menu
-Make a Booking: Allows users to book tickets by providing their name, email, show name, phone number, credit card number, and password.
-Delete a Booking: Provides options to delete bookings by various criteria such as name, email, show booked, phone number, credit card number, and password.
-Edit Booking: Enables users to update their booking details including name, email, show booked, phone number, credit card number, and password.
-Display Bookings: Offers multiple display options to view all records or filter by specific details such as name, email, show booked, phone number, credit card number, and password.
-Search Record: Allows users to search for specific records in the database by name, email, show booked, phone number, credit card number, and password.
-Exit: Exits the application.
+- Make a Booking: Allows users to book tickets by providing their name, email, show name, phone number, credit card number, and password.
+- Delete a Booking: Provides options to delete bookings by various criteria such as name, email, show booked, phone number, credit card number, and password.
+- Edit Booking: Enables users to update their booking details including name, email, show booked, phone number, credit card number, and password.
+- Display Bookings: Offers multiple display options to view all records or filter by specific details such as name, email, show booked, phone number, credit card number, and password.
+- Search Record: Allows users to search for specific records in the database by name, email, show booked, phone number, credit card number, and password.
+- Exit: Exits the application.
 
 ## Current Shows
 Mirzapur Season II
