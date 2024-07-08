@@ -36,7 +36,7 @@ The current data is displayed for verification before making any changes.
 The user can display all bookings or filter the display by specific details.
 The search functionality allows the user to find records based on different criteria.
 
-# Database Schema
+## Database Schema
 The application uses a MySQL database with a table named BOOKINGS with the following fields:
 
 Name: User's name
@@ -46,11 +46,11 @@ Phone_No: User's phone number
 Credit_Card_No: User's credit card number
 Password: User's password
 
-# Installation and Setup
+## Installation and Setup
 Install MySQL: Ensure MySQL is installed and running on your machine.
 Database Setup: Create a database named tick and a table BOOKINGS using the provided schema.
 Python Dependencies: Install the required Python packages using pip install MySQLdb prettytable.
 Run the Application: Execute the script using python ticket_booking_system.py.
 
-# Conclusion
+## Conclusion
 The Book My Show ticket booking system is a comprehensive solution for managing show bookings. With a user-friendly command-line interface and robust database integration, it simplifies the process of booking, editing, deleting, displaying, and searching for tickets.
